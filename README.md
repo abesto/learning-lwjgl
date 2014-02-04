@@ -1,1 +1,1 @@
-This will grow up to be a simplistic invaders-like game. For now, here is where I learn OpenGL (with LWGJS)
+... in which the author learns a bit about OpenGL and LWJGL.
